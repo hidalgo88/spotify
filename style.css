@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+h1{
+    color:#1ed760;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 50vh;
+}
+button{
+    border-color: #1ed760 !important;
+    color: #1ed760 !important;
+}
+button:hover{
+    background-color: #1ed760 !important;
+    color: black !important;
+}
+.pipi{
+    width: 40vh;
+}
